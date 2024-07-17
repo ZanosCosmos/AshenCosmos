@@ -1,0 +1,92 @@
+## LightDes
+Attacks foe with[NL]
+holy magic.[X]
+
+## IronDes ^
+Basic weaponry even novices are able to wield.[X]
+
+## SteelDes
+Heavier weapons that wield more might.[X]
+
+## SilverDes
+Supreme weaponry for advanced wielders.[X]
+
+## BraveDes ^
+Ultimate weaponry that increases the wielder's agility.[X]
+
+## KillerDes
+A weapon designed to perform critical hits.[X]
+
+## TriangleDes
+Reverses the weapon triangle.[X]
+
+## RangedDes
+Can be thrown effectively.[X]
+
+## MorRang
+A weapon designed for increased range.[X]
+
+## MegaRange
+Can attack from incredible distances.[X]
+
+## Devil
+Has a Lck% chance to injure the wielder.[X]
+
+## NoRes
+Pierces enemy resistance. Cannot perform critical hits.[X]
+
+## NosDes
+Drains enemy HP to heal the wielder. Cannot perform critical hits.[X]
+
+## LNos
+Resire[X]
+
+//Both
+
+## MyrmW
+Wao Dao[X]
+
+## CritGood
+A specially crafted sword for a single lethal blow.[X]
+
+## ArmorSword
+Armorcleaver[X]
+
+## ArmorLance
+Armorpike[X]
+
+## NoArmor
+Deals effective damage to heavily armored units.[X]
+
+## FlySword
+Wingcleaver[X]
+
+## FlyLance
+Wingpike[X]
+
+## FlyAxe
+Grounder[X]
+
+## NoFly
+Deals effective damage to fliers.[X]
+
+## HorseSword
+Horsecleaver[X]
+
+## HorseLance
+Horsepike[X]
+
+## HorseAxe
+Poleaxe[X]
+
+## HorseDes
+Deals effective damage to horse riders.[X]
+
+## SlayAxe
+Lanceslayer[X]
+
+## SlayDes
+Doubles the effects of the weapon triangle.[X]
+
+## ThunderDes
+Sacrifices range for power.[X]

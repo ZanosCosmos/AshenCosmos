@@ -1,0 +1,163 @@
+## TroubName  ^ //Arrow does narrow font
+Thaumaturge[X]
+
+## TroubDes
+Riders who wield the holy[NL]
+powers of light magic.[X]
+
+## ArmorName
+Armor Knight[X]
+
+## ArmorDes
+Heavily armored warriors who[NL]
+shrug off any and all attacks.[X]
+
+## HalName
+Halberdier[X]
+
+## HalDes
+Powerful lancers who strike[NL]
+fear into their enemies.[X]
+
+## CelicaName
+Priestess[X]
+
+## CelicaDes
+Women of the cloth who have[NL]
+training in swordplay.[X]
+
+## WarlockName
+Warlock[X]
+
+## WarlockDes
+True masters of magic who wield[NL]
+the powers of light and dark.[X]
+
+## HunterName
+Hunter[X]
+
+## HunterDes
+Archers who stalk their prey,[NL]
+no matter the terrain.[X]
+
+## MercName
+Brawler[X]
+
+## MercDes
+Fighters who wield both bulk[NL]
+and speed in spades.[X]
+
+## BarbName
+Barbarian[X]
+
+## BarbDes
+Crude fighters who believe[NL]
+in might above tactics.[X]
+
+## PirateName
+Corsair[X]
+
+## PirateDes
+Dual-wielding brutes who have no[NL]
+issue traversing through water.[X]
+
+//Descriptions
+
+## GenDes
+Masters of defense that stand[NL]
+as unstoppable titans.[X]
+
+## CavDes
+Warriors who have great mobility[NL]
+with their equestrian friend.[X]
+
+## PalDes
+Cavaliers who have proved their[NL]
+supreme combat ability.[X]
+
+## WyrmDes
+Warriors riding powerful scaled[NL]
+beasts with immense battle prowess.[X]
+
+## WLordDes
+Masters of wyvern riding whose battle[NL]
+prowess is matched by none other.[X]
+
+## PegName
+Sky Knight[X]
+
+## PegDes
+Fliers who strike from the skies[NL]
+with great speed and accuracy.[X]
+
+## FalcoDes
+Advanced pegasus riders who[NL]
+shrug off magical attacks.[X]
+
+## ArcherDes
+Snipers in training who strike[NL]
+their foes from afar.[X]
+
+## SniperDes
+Supreme archers who can hit[NL]
+their target from any distance.[X]
+
+## RangerDes
+Horseback hunters that will never[NL]
+cease their pursuit of their target.[X]
+
+## MyrmDes
+Swordfighters who attack with[NL]
+quick and lethal strikes.[X]
+
+## SwdMstrDes
+Masters of speed whose swift[NL]
+agility is matched by none.[X]
+
+## FighterDes
+Warriors who wield large axes[NL]
+with their impressive build.[X]
+
+## WarriorDes
+Brutish powerhouses who end most[NL]
+conflicts with a single strike.[X]
+
+## BerserkDes
+Powerful titans who end their[NL]
+fights in a single lethal blow.[X]
+
+## SolDes
+Lance wielding infantry who are[NL]
+the cornerstone of any army.[X]
+
+## HeroDes
+Shield wielding brawlers who lead[NL]
+their allies to absolute victory.[X]
+
+## MageDes
+Scholars who study and wield the[NL]
+effects of elemental magic.[X]
+
+## SageDes
+Advanced mages who command both[NL]
+elemental and light magic.[X]
+
+## MKDes
+Horseback fighters who excel in[NL]
+both swordplay and sorcery.[X]
+
+## PriestDes
+Men of the cloth who heal[NL]
+the good and smite the evil.[X]
+
+## ClericDes
+Women of the cloth who heal[NL]
+the good and smite the evil.[X]
+
+## BishopDes
+Paragons who attempt to lead[NL]
+all towards enlightenment.[X]
+
+## ShamanDes
+Wielders of elder magic who combat[NL]
+its psychological corruption.[X]

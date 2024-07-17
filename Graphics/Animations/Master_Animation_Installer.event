@@ -1,0 +1,52 @@
+#ifndef ClassAnimTable
+  #ifdef _FE8_
+    #define ClassAnimTable (0xc00008-0x20)
+  #endif
+  #ifdef _FE7_
+    #define ClassAnimTable (0xe00008-0x20)
+  #endif
+#endif
+
+#define AnimTableEntry(index) "ORG ClassAnimTable + (index * 0x20)"
+//#define AnimTableEntry(index) "ORG ClassAnimTable - 0x20 + (index * 0x20)"
+#define SpecialAnim(Animation,Weapon) "BYTE Weapon 0x00 ; SHORT Animation"
+#include "animationpatches.event"
+//#include "PrfAnimInstaller/IndividualAnimInstaller.event"
+
+//////////////Installed animations go here:
+
+  {
+  #include "Troubadour/trof_ro1 Installer.event" //01
+  }
+
+  {
+  #include "Armor_Lance/armm_sp1 Installer.event" //01
+  }
+
+  {
+  #include "Armor_Axe/armm_sp1 Installer.event" //01
+  }
+
+  {
+  #include "Armor_Handaxe/armm_sp1 Installer.event" //01
+  }
+
+  {
+  #include "Armor_Unarmed/armm_sp1 Installer.event" //01
+  }
+
+  {
+  #include "Archer_M_Bow/arcm_ar1 Installer.event" //01
+  }
+
+  {
+  #include "Archer_M_Unarmed/arcm_ar1 Installer.event" //01
+  }
+
+  {
+  #include "Archer_F_Bow/arcf_ar1 Installer.event" //01
+  }
+
+  {
+  #include "Archer_F_Unarmed/arcf_ar1 Installer.event" //01
+  }

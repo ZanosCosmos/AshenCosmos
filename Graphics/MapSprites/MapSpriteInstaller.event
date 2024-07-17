@@ -1,0 +1,8 @@
+//ClassNameStand/Move:
+//#incext Png2Dmp "FolderWhereTheSpriteIs/ImageFileName" --lz77
+
+TroubStand:
+#incext Png2Dmp "Mounted/Troub_Stand.png" --lz77
+
+TroubMove:
+#incext Png2Dmp "Mounted/Troub_Walk.png" --lz77

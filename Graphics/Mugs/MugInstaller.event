@@ -1,0 +1,9 @@
+#include "Tools/Tool Helpers.txt"
+//this file defines the macro:
+//setMugEntry(number, data, mouth_x, mouth_y, eye_x, eye_y)
+
+
+//Player
+Zanos_Mug:
+#incext PortraitFormatter "Player/ZanosNeutral.png"
+setMugEntry(0x2, Zanos_Mug,3,5,3,3)

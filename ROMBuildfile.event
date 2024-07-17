@@ -2,6 +2,7 @@
     #include "EAstdlib.event"
     #include "CustomDefinitions.event"
 //PROTECT $25224
+PROTECT 0xC00000 //start of anim table?
     ORG FreeSpace
 
     #include "repointedTextTable.event"
@@ -26,6 +27,9 @@
     //Maps
     #include "Maps/MasterMapInstaller.event"
     #endif // USE_TEST_MAP
+
+    //Graphics
+    #include "Graphics/GraphicsInstaller.event"
 	
 	ASSERT (FreeSpaceEnd - currentOffset) // So that you don't overwrite vanilla tables if using default freespace
 	
